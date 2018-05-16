@@ -1,1 +1,15 @@
-/* Your CSS styles go here */
+body {
+    margin: auto;
+  
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    background: #283048;
+
+}
+1class {
+    font-size: 100px;
+}
+
+
